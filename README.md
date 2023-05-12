@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
-<h3 align="center">Experienced Software Engineer and consultant. Rust Occultist 🧙‍♂️.</h3>
+<h3 align="center">Experienced Software Engineer and Consultant. Rust Occultist 🧙‍♂️.</h3>
 
 - 🔭 I’m currently working on [rledger](https://github.com/Rigellute/rledger)
 
