@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">Experienced Software Engineer and Consultant. Rust Occultist 🧙‍♂️.</h3>
 
-- 🔭 I’m currently working on [rledger](https://github.com/Rigellute/rledger)
+- 🔭 I’m currently working on [rledger](https://github.com/Rigellute/rledger) - a plain text accounting system written in Rust.
 
-- ✍️ Author of [spotify-tui](https://github.com/Rigellute/spotify-tui)
+- ✍️ Author of [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust.
 
 - 👨‍💻 All of my projects are available at [https://keliris.dev/projects](https://keliris.dev/projects)
 
 - 📝 I regularly write articles on [https://keliris.dev/blog](https://keliris.dev/blog)
 
-- 💬 Ask me about **Rust, Typescript, Go, React & React Native, Devops, and Node.js.**
+- 💬 Ask me about **Rust, Web development, Typescript, Go, React & React Native, Devops, and Node.js.**
 
 - 📫 How to reach me **rigellute@gmail.com**
 
