@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://keliris.dev/projects](https://keliris.dev/projects)
 
-- 📝 I regularly write articles on [https://keliris.dev/blog](https://keliris.dev/blog)
+- 📝 I regularly write articles on [https://keliris.dev/articles](https://keliris.dev/articles)
 
 - 💬 Ask me about **Rust, Web development, Typescript, Go, React & React Native, Devops, and Node.js.**
 
